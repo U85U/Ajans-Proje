@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2_Deneme2", "Odev2_Deneme2\Odev2_Deneme2.csproj", "{AA0751F8-AE3E-46AF-B796-FDCAD78CEE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA0751F8-AE3E-46AF-B796-FDCAD78CEE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0751F8-AE3E-46AF-B796-FDCAD78CEE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0751F8-AE3E-46AF-B796-FDCAD78CEE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0751F8-AE3E-46AF-B796-FDCAD78CEE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8A9D69D-46BA-408E-8DB4-E54C374B92E5}
+	EndGlobalSection
+EndGlobal

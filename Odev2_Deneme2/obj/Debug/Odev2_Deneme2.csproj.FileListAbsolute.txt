@@ -1,0 +1,126 @@
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Form1.resources
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Form2.resources
+C:\Users\aysea\OneDrive\Masaüstü\Odev-2\Odev2_Deneme2\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormCalisanlar.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormOyuncularımız.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.MaliDurum.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\kdzum\OneDrive\Masaüstü\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.çalışanlarform.resources
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormOyuncularımız.resources
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\kdzum\OneDrive\Masaüstü\akademik işler\c# denemeleri\Yeni klasör (3)\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.ajansform.resources
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.ajansform.resources
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Projebilgilendirme.resources
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Projebilgilendirme.resources
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.ajansform.resources
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Projebilgilendirme.resources
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.ajansform.resources
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\nyp_proje_son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Projebilgilendirme.resources
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.ajansform.resources
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\kalıtım denemesi\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Projebilgilendirme.resources
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.ajansform.resources
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\utku\Desktop\Proje\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe.config
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\bin\Debug\Odev2_Deneme2.pdb
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csprojAssemblyReference.cache
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormFirmalarımız.resources
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.FormGirisEkrani.resources
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.araGecis.resources
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Projebilgilendirme.resources
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.Properties.Resources.resources
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.ajansform.resources
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.GenerateResource.cache
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.exe
+C:\Users\kdzum\OneDrive\Masaüstü\kısa kalıtım\Kalıtım Son\Deneme\Odev2_Deneme2\obj\Debug\Odev2_Deneme2.pdb
